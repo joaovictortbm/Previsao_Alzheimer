@@ -13,6 +13,6 @@ O objetivo desse projeto é desenvolver um modelo preditivo capaz de identificar
 
 ## Dataset
 
-Este projeto utiliza o dataset **[Alzheimer’s Prediction Dataset (Global)](https://adni.loni.usc.edu/](https://www.kaggle.com/datasets/ankushpanday1/alzheimers-prediction-dataset-global)**
+Este projeto utiliza o dataset **[Alzheimer’s Prediction Dataset (Global)] (https://www.kaggle.com/datasets/ankushpanday1/alzheimers-prediction-dataset-global)**
 
 - **Formato**: CSV
